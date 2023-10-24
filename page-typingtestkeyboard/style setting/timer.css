@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.timertest{
+    display: none;
+    position: relative;
+    margin-top: -80px;
+}
+
+
+.random-6{
+    background-color: rgb(39, 39, 39);
+    padding: 5px 20px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    box-shadow: 3px 2px 10px rgb(29, 29, 29); 
+}
+
+.random-7{
+    background-color: rgb(39, 39, 39);
+    padding: 5px 20px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    /*3px 2px 10px rgb(29, 29, 29)*/
+    box-shadow: 3px 2px 10px rgb(29, 29, 29);
+    
+}
+
+.random-8{
+    background-color: rgb(39, 39, 39);
+    padding: 5px 20px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    box-shadow: 3px 2px 10px rgb(29, 29, 29);
+    
+}
+
+.random-9{
+    background-color: rgb(39, 39, 39);
+    padding: 5px 20px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    box-shadow: 3px 2px 10px rgb(29, 29, 29);
+    
+}
+.random-10{
+    background-color: rgb(39, 39, 39);
+    padding: 5px 20px;
+    margin: 5px;
+    font-size: 20px;
+    color: #fff;
+    border-radius: 25px;
+    display: flex;
+    box-shadow: 3px 2px 10px rgb(29, 29, 29);
+    
+}
+
+.input::placeholder{
+    opacity: 0.8;
+    color: #000000;
+}
+
+
+
+
+.time-time{
+    visibility: visible;
+    position: absolute;
+    margin-top: 1.5px;
+    margin-left: 30px; font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+
+
+

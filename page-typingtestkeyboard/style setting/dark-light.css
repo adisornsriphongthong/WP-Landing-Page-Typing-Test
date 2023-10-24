@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dev-dark-light{
+    display: flex;
+    justify-content: right;
+    position: relative;
+    align-items: center;
+}
+.dark-light-background{
+    border-radius: 15px;
+    width: 45px;
+    height: 20px;
+    margin: 5px;
+    background-color: rgb(39, 39, 39);
+    border: 0.5px solid rgb(39, 39, 39);    
+}
+
+.dark-light{
+    background-color: rgb(255, 255, 255);
+    width: 20px;
+    height:20px;
+    border: 0.5px solid transparent;
+    border-radius: 50px;
+    position: absolute;
+    margin-left: 0px;
+    margin-top:0px;
+}
+
+.sun{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    margin: 5px;
+    visibility: visible;
+}
+
+.moon{
+    width: 20px;
+    height: 20px;
+    align-items: center;
+    margin: 5px;
+    position: absolute;
+    visibility: hidden;
+    filter: invert(1);
+}
+
+.move-dark-mode{
+    display: flex;
+    align-items: center;
+}
